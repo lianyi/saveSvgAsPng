@@ -4,6 +4,7 @@
 
 ```
 npm install save-svg-as-png
+bower install save-svg-as-png
 ```
 
 ## Usage
